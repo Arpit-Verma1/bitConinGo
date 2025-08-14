@@ -4,6 +4,12 @@ A modern iOS cryptocurrency portfolio management application built with SwiftUI 
 
 ## 📱 Features
 
+
+
+Uploading Screen Recording 2025-08-14 at 7.50.48 PM.mov…
+
+
+
 ### 🏠 Analytics Dashboard
 - **Portfolio Overview**: Real-time portfolio value display with Bitcoin/Cash toggle
 - **Interactive Charts**: Portfolio performance visualization with multiple timeframes
