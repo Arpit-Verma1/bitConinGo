@@ -4,10 +4,7 @@ A modern iOS cryptocurrency portfolio management application built with SwiftUI 
 
 ## 📱 Features
 
-
-
-Uploading Screen Recording 2025-08-14 at 7.50.48 PM.mov…
-
+https://github.com/user-attachments/assets/6e91b997-1e7b-4d2b-a666-c8c6925a2c68
 
 
 ### 🏠 Analytics Dashboard
